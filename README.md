@@ -46,5 +46,3 @@ The Power BI dashboard consists of several sections that allow for dynamic inter
 ## Contributing
 If you'd like to contribute or suggest any improvements, feel free to create an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
