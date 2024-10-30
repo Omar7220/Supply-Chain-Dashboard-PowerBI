@@ -39,9 +39,6 @@ The Power BI dashboard consists of several sections that allow for dynamic inter
 3. Ensure you have access to the **MSSQL Server** instance with the necessary credentials.
 4. Refresh the data to view the most recent insights.
 
-## GIF Demonstration
-![https://github.com/Omar7220/Supply-Chain-Dashboard-PowerBI/blob/main/1017-ezgif.com-resize.gif]
-
 
 ## Contributing
 If you'd like to contribute or suggest any improvements, feel free to create an issue or submit a pull request.
