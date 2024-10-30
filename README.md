@@ -28,6 +28,9 @@ The Power BI dashboard consists of several sections that allow for dynamic inter
 - **Top Orders by Region**: Central America, Western Europe, Southeast Asia.  
 - **Total Sales by Market**: LATAM, Europe, Pacific Asia, USCA, and Africa.
 
+###5. Dataset Source 
+-https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+
 ## Key Features
 - **Data Source**: Integrated from **MSSQL Server** for real-time analytics.
 - **Interactivity**: Users can interact with the charts to explore data trends dynamically.
